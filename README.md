@@ -1,5 +1,11 @@
 # Backend Assignment
 
+## Steps to setup:
+
+1. Clone the repository
+2. run the command npm install in the terminal.
+3. run the command npm start to start the server on http://localhost:8000.
+
 ## API Endpoints:
 1. GET /notes/all -> gets all the notes.
 2. POST /notes/add -> add a new note with title and content as the body.
